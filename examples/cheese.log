@@ -1,0 +1,8 @@
+[2018-09-28 21:40:53.485] [ERROR] - consoleAAArgh! Something went wrong { some: 'otherObject', useful_for: 'debug purposes' }
+[2018-09-28 21:40:53.489] [INFO] - consoleThis should appear as info output
+[2018-09-28 21:40:53.489] [ERROR] - cheeseCheese gouda is too ripe!
+[2018-09-28 21:40:53.490] [FATAL] - cheeseCheese was breeding ground for listeria.
+[2018-09-28 22:37:16.746] [ERROR] - consoleAAArgh! Something went wrong { some: 'otherObject', useful_for: 'debug purposes' }
+[2018-09-28 22:37:16.751] [INFO] - consoleThis should appear as info output
+[2018-09-28 22:37:16.751] [ERROR] - cheeseCheese gouda is too ripe!
+[2018-09-28 22:37:16.751] [FATAL] - cheeseCheese was breeding ground for listeria.
